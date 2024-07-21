@@ -1,0 +1,71 @@
+Victim_age,Victim_gender,Suspect_age,Suspect_gender_identified,Suspect_known_status,Suspect_count,Victim_religion,Police_station,Crime
+25,Female,NULL,both,known,4,Muslim,Daighar,domestic violence
+14,Female,19,Male,known,1,Muslim,Daighar,sexual assault of minor
+17,Female,NULL,unknown,unknown,1,Muslim,Daighar,kidnapping
+12,Female,31,Male,known,1,Hindu,Daighar,rape of minor
+16,Female,NULL,unknown,unknown,1,Muslim,Daighar,kidnapping
+17,Female,NULL,unknown,unknown,1,Hindu,Daighar,kidnapping
+15,Female,NULL,unknown,unknown,1,Muslim,Daighar,kidnapping
+23,Female,28,Male,known,1,Hindu,Kalwa,murder
+23,Male,23,Female,known,1,Hindu,Kalwa,murder
+27,Male,22,Male,known,2,Hindu,Kalwa,attempted murder
+23,Female,35,Male,known,1,Hindu,Kalwa,rape
+16,Female,24,Male,known,1,Muslim,Kalwa,rape of minor
+36,Female,36,Male,known,1,Hindu,Kalwa,sexual assault
+20,Female,22,Male,known,1,Hindu,Kalwa,cyber defamation
+38,Female,NULL,unknown,unknown,1,Hindu,Kalwa,cyber defamation
+17,Female,NULL,Male,unknown,1,Hindu,Kalwa,sexual assault of minor
+17,Female,17,Male,known,1,Hindu,Kalwa,kidnapping of minor
+12,Female,45,Male,known,1,Hindu,Kalwa,sexual assault of minor
+17,Female,27,Male,known,1,Hindu,Kalwa,sexual assault of minor
+25,Female,30,both,known,3,Hindu,Kalwa,domestic violence
+37,Female,36,Male,known,1,Hindu,Kalwa,domestic violence
+20,Male,26,Male,known,1,Muslim,Mumbra,murder
+27,Male,21,Male,known,1,Muslim,Mumbra,attempted murder
+24,Male,28,Male,known,3,Hindu,Mumbra,attempted murder
+40,Male,45,both,known,2,Muslim,Mumbra,attempted murder
+17,Female,18,Male,known,1,Muslim,Mumbra,rape and cyber defamation
+2,Female,42,Male,known,1,Hindu,Mumbra,rape of minor
+25,Female,NULL,Male,unknown,2,Hindu,Mumbra,robbery
+29,Male,NULL,Male,unknown,1,Hindu,Mumbra,robbery
+20,Female,38,Male,known,2,Muslim,Mumbra,robbery
+42,Female,NULL,both,known,4,Muslim,Mumbra,assault
+32,Female,NULL,unknown,unknown,1,Hindu,Mumbra,cyber defamation
+25,Female,NULL,both,known,2,Muslim,Mumbra,assault
+16,Female,33,Male,known,1,Hindu,Mumbra,sexual assault of minor
+38,Female,NULL,both,known,3,Hindu,Naupada,domestic violence
+21,Female,20,Male,known,1,Hindu,Naupada,rape
+15,Female,NULL,Male,unknown,1,Hindu,Naupada,sexual assault of minor
+13,Female,NULL,Male,unknown,1,Hindu,Naupada,sexual assault of minor
+32,Female,38,Male,known,1,Hindu,Naupada,rape
+14,Female,NULL,Male,unknown,1,Hindu,Naupada,sexual assault of minor
+17,Female,28,Male,known,1,Muslim,Thanenagar,rape of minor
+24,Female,30,Male,known,2,Hindu,Thanenagar,rape and cyber defamation
+57,Male,NULL,Male,unknown,2,Hindu,Thanenagar,robbery
+23,Female,61,Male,known,1,Hindu,Thanenagar,sexual assault
+22,Female,37,Male,known,1,Hindu,Thanenagar,sexual assault
+42,Female,76,Male,known,1,Hindu,Rabodi,attempted murder
+38,Male,NULL,Male,unknown,3,Hindu,Rabodi,robbery
+36,Male,NULL,Male,unknown,2,Hindu,Rabodi,robbery
+19,Male,21,Male,known,3,Hindu,Rabodi,assault and robbery
+36,Female,NULL,Male,unknown,2,Hindu,Rabodi,robbery
+31,Male,24,Male,known,2,Hindu,Rabodi,assault and robbery
+46,Female,NULL,unknown,unknown,1,Hindu,Rabodi,robbery
+45,Female,34,Male,known,1,Hindu,Rabodi,robbery
+38,Male,NULL,unknown,unknown,2,Hindu,Rabodi,robbery
+38,Female,22,Male,known,1,Hindu,Rabodi,robbery
+27,Female,33,Male,known,1,Muslim,Rabodi,rape
+16,Female,14,Male,known,1,Muslim,Rabodi,rape of minor
+43,Female,NULL,Male,known,1,Muslim,Rabodi,rape
+21,Female,24,Male,known,1,Hindu,Rabodi,rape
+17,Female,21,Male,known,1,Hindu,Rabodi,sexual assault of minor
+18,Female,20,Male,known,1,Muslim,Rabodi,sexual assault
+33,Female,33,Male,known,1,Hindu,Rabodi,sexual assault
+39,Female,43,Male,known,1,Hindu,Rabodi,sexual assault
+15,Female,19,Male,known,1,Hindu,Rabodi,sexual assault of minor
+38,Female,40,Male,known,1,Muslim,Rabodi,sexual assault
+37,Female,17,Male,known,1,Hindu,Rabodi,sexual assault
+24,Female,NULL,both,known,3,Muslim,Rabodi,domestic violence
+26,Female,NULL,both,known,4,Muslim,Rabodi,domestic violence
+39,Female,NULL,Male,known,2,Hindu,Rabodi,domestic violence
+41,Female,NULL,both,known,4,Hindu,Rabodi,domestic violence
